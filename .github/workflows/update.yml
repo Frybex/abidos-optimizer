@@ -1,20 +1,24 @@
 name: Lost Ark Price Auto-Update
 on:
   schedule:
-    - cron: '*/15 * * * *' # Toutes les 15 minutes
-  workflow_dispatch: # Permet de cliquer sur "Run" manuellement sur GitHub
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    # On ajoute la variable magique demandée par GitHub pour passer en Node 24
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      
     steps:
       - name: 📥 Récupération du code
         uses: actions/checkout@v4
 
-      - name: 🟢 Installation Node.js
+      - name: 🟢 Installation Node.js 24
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24' # On passe de 20 à 24 ici
 
       - name: 📦 Installation des outils
         run: |
@@ -22,12 +26,12 @@ jobs:
           npx playwright install chromium
 
       - name: 🕷️ Lancement du Scraper
-        run: node server.js
+        run: node app.js
 
       - name: 📤 Envoi des prix vers Vercel
         run: |
           git config --global user.name 'Abidos-Bot'
           git config --global user.email 'bot@abidos.com'
           git add data.json
-          git commit -m "⚡ MAJ Prix Automatique" || exit 0
+          git commit -m "⚡ MAJ automatique (Node 24)" || exit 0
           git push
