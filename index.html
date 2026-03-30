@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon Lost Ark Market</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white p-10">
+    <h1 class="text-3xl font-bold mb-6 text-yellow-500">Prix du Marché (EUC)</h1>
+    
+    <div class="overflow-x-auto bg-gray-800 rounded-lg shadow">
+        <table class="w-full text-left">
+            <thead class="border-b border-gray-700 text-gray-400">
+                <tr>
+                    <th class="p-4">Matériau</th>
+                    <th class="p-4">Prix (PO)</th>
+                    <th class="p-4">Dernière MAJ</th>
+                </tr>
+            </thead>
+            <tbody id="market-table">
+                </tbody>
+        </table>
+    </div>
+
+    <script>
+        async function loadPrices() {
+            const response = await fetch('data.json');
+            const data = await response.json();
+            const table = document.getElementById('market-table');
+            
+            table.innerHTML = data.map(item => `
+                <tr class="border-b border-gray-700 hover:bg-gray-750 transition">
+                    <td class="p-4 font-medium">${item.name}</td>
+                    <td class="p-4 text-yellow-400">${item.price.toLocaleString()} G</td>
+                    <td class="p-4 text-gray-500 text-sm">${item.updated}</td>
+                </tr>
+            `).join('');
+        }
+        loadPrices();
+    </script>
+</body>
+</html>

@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lost Ark — Optimiseur Abidos</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Crimson+Pro:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script src="script.js" defer ></script>
+</head>
+<body>
+<div class="container">
+  <header>
+    <p class="subtitle">Lost Ark — Bûcheron</p>
+    <h1>Optimiseur<br>Abidos</h1>
+    <p class="tagline">Production maximale &amp; rentabilité par échange optimal</p>
+    <div class="divider"><div class="divider-gem"></div></div>
+  </header>
+
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('economy',this)">💰 Économie</button>
+    <button class="tab" onclick="switchTab('stock',this)">📦 Stock actuel</button>
+  </div>
+
+  <!-- ── TAB STOCK ── -->
+  <div id="tab-stock" class="tab-content">
+    <div class="panel">
+      <div class="panel-corner tl"></div><div class="panel-corner tr"></div>
+      <div class="panel-corner bl"></div><div class="panel-corner br"></div>
+      <p class="panel-title">Ressources disponibles</p>
+      <div class="grid-2" style="margin-bottom:16px">
+        <div class="input-group">
+          <label class="input-label lbl-gris"><img src="img/Bois_gris.webp" class="ico"> Bois Gris</label>
+          <input type="text" inputmode="numeric" class="num-input" id="in-gris" placeholder="0" min="0">
+        </div>
+        <div class="input-group">
+          <label class="input-label lbl-vert"><img src="img/Bois_vert.webp" class="ico"> Bois Vert</label>
+          <input type="text" inputmode="numeric" class="num-input" id="in-vert" placeholder="0" min="0">
+        </div>
+        <div class="input-group">
+          <label class="input-label lbl-bleu"><img src="img/Bois_bleu.webp" class="ico"> Bois Bleu</label>
+          <input type="text" inputmode="numeric" class="num-input" id="in-bleu" placeholder="0" min="0">
+          <span class="input-sub">5 bleu → 50 gris</span>
+        </div>
+        <div class="input-group">
+          <label class="input-label lbl-orange"><img src="img/Bois_orange.webp" class="ico"> Bois Orange</label>
+          <input type="text" inputmode="numeric" class="num-input" id="in-orange" placeholder="0" min="0">
+          <span class="input-sub">Requis pour la recette</span>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="input-group">
+          <label class="input-label lbl-poudre"><img src="img/Poudre.webp" class="ico"> Poudre</label>
+          <input type="text" inputmode="numeric" class="num-input" id="in-poudre" placeholder="0" min="0">
+        </div>
+      </div>
+      <div class="recipe-row">
+        <span>Recette :</span>
+        <span class="rchip"><img src="img/Bois_gris.webp" class="ico"> <span class="c-gris">86 gris</span></span>
+        <span class="rchip"><img src="img/Bois_vert.webp" class="ico"> <span class="c-vert">45 vert</span></span>
+        <span class="rchip"><img src="img/Bois_orange.webp" class="ico"> <span class="c-orange">33 orange</span></span>
+        <span class="arrow">→</span>
+        <span class="rchip" style="border-color:var(--gold-dim);color:var(--gold-light)"><img src="img/Abidos.webp" class="ico"> 1 lot = 10 abidos</span>
+      </div>
+      <button class="btn" onclick="optimize()">⟡ Calculer l'optimum</button>
+    </div>
+
+    <!-- ── RESULTS STOCK ── -->
+    <div id="results-stock" style="display:none">
+      <div class="panel">
+        <div class="panel-corner tl"></div><div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div><div class="panel-corner br"></div>
+        <p class="panel-title">Production maximale</p>
+        <div class="result-count">
+          <div class="abidos-number" id="s-abidos">0</div>
+          <div class="abidos-label" id="s-sublabel">abidos craftables (0 lot)</div>
+        </div>
+      </div>
+      <div class="panel">
+        <div class="panel-corner tl"></div><div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div><div class="panel-corner br"></div>
+        <p class="panel-title">Échanges à effectuer</p>
+        <div id="s-steps"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-corner tl"></div><div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div><div class="panel-corner br"></div>
+        <p class="panel-title">Ressources restantes après craft</p>
+        <div class="rem-grid">
+          <div class="rem-item"><img src="img/Bois_gris.webp" class="ico"><div class="rem-val c-gris" id="s-rem-gris">0</div><div class="rem-label">Gris</div></div>
+          <div class="rem-item"><img src="img/Bois_vert.webp" class="ico"><div class="rem-val c-vert" id="s-rem-vert">0</div><div class="rem-label">Vert</div></div>
+          <div class="rem-item"><img src="img/Bois_bleu.webp" class="ico"><div class="rem-val c-bleu" id="s-rem-bleu">0</div><div class="rem-label">Bleu</div></div>
+          <div class="rem-item"><img src="img/Bois_orange.webp" class="ico"><div class="rem-val c-orange" id="s-rem-orange">0</div><div class="rem-label">Orange</div></div>
+          <div class="rem-item"><img src="img/Poudre.webp" class="ico"><div class="rem-val c-poudre" id="s-rem-poudre">0</div><div class="rem-label">Poudre</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── TAB ECONOMY ── -->
+  <div id="tab-economy" class="tab-content active">
+    <div class="panel">
+      <div class="panel-corner tl"></div><div class="panel-corner tr"></div>
+      <div class="panel-corner bl"></div><div class="panel-corner br"></div>
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:18px;flex-wrap:wrap">
+        <p class="panel-title" style="margin:0">Prix des bois (lot de 100 unités)</p>
+        <select id="region-select" style="
+          background:rgba(0,0,0,0.4);
+          border:1px solid var(--border);
+          color:var(--gold-light);
+          font-family:'Cinzel',serif;
+          font-size:11px;
+          letter-spacing:1px;
+          padding:5px 8px;
+          border-radius:2px;
+          cursor:pointer;
+        ">
+          <option value="euc">EUC</option>
+          <option value="na">NA</option>
+        </select>
+        <button id="btn-refresh" onclick="refreshPrices()" style="
+          background:rgba(201,168,76,0.08);
+          border:1px solid var(--border);
+          color:var(--gold-light);
+          font-family:'Cinzel',serif;
+          font-size:11px;
+          letter-spacing:1.5px;
+          padding:5px 14px;
+          cursor:pointer;
+          border-radius:2px;
+          transition:background 0.2s,border-color 0.2s;
+          white-space:nowrap;
+        "
+        onmouseover="this.style.background='rgba(201,168,76,0.18)';this.style.borderColor='var(--gold)'"
+        onmouseout="this.style.background='rgba(201,168,76,0.08)';this.style.borderColor='var(--border)'">
+          ↻ Actualiser les prix
+        </button>
+        <span id="price-updated" style="font-size:11px;color:var(--text-dim);font-style:italic"></span>
+      </div>
+      <div class="grid-4">
+        <div class="input-group">
+          <label class="input-label lbl-gris"><img src="img/Bois_gris.webp" class="ico"> Bois Gris</label>
+          <div class="input-wrap"><input type="text" inputmode="numeric" class="num-input" id="price-gris" placeholder="0" min="0" value="170"><span class="input-unit"><img src="img/Gold.webp" class="ico"></span></div>
+        </div>
+        <div class="input-group">
+          <label class="input-label lbl-vert"><img src="img/Bois_vert.webp" class="ico"> Bois Vert</label>
+          <div class="input-wrap"><input type="text" inputmode="numeric" class="num-input" id="price-vert" placeholder="0" min="0" value="400"><span class="input-unit"><img src="img/Gold.webp" class="ico"></span></div>
+        </div>
+        <div class="input-group">
+          <label class="input-label lbl-bleu"><img src="img/Bois_bleu.webp" class="ico"> Bois Bleu</label>
+          <div class="input-wrap"><input type="text" inputmode="numeric" class="num-input" id="price-bleu" placeholder="0" min="0" value="1449"><span class="input-unit"><img src="img/Gold.webp" class="ico"></span></div>
+          <span class="input-sub">5 bleu → 50 gris</span>
+        </div>
+        <div class="input-group">
+          <label class="input-label lbl-orange"><img src="img/Bois_orange.webp" class="ico"> Bois Orange</label>
+          <div class="input-wrap"><input type="text" inputmode="numeric" class="num-input" id="price-orange" placeholder="0" min="0" value="2000"><span class="input-unit"><img src="img/Gold.webp" class="ico"></span></div>
+        </div>
+      </div>
+      <hr class="sep">
+      <p class="panel-title" style="margin-bottom:16px">Prix du marché &amp; objectif</p>
+      <div class="grid-3">
+        <div class="input-group">
+          <label class="input-label lbl-gold">Prix unitaire abidos</label>
+          <div class="input-wrap"><input type="text" inputmode="numeric" class="num-input" id="price-abidos" placeholder="0" min="0" value="146"><span class="input-unit"><img src="img/Gold.webp" class="ico"></span></div>
+          <span class="input-sub" style="color:var(--orange)">Achat = ce prix · Vente = −5% de taxe</span>
+        </div>
+        <div class="input-group">
+          <label class="input-label" style="color:var(--vert)">Objectif de production</label>
+          <div class="input-wrap"><input type="text" inputmode="numeric" class="num-input" id="target-abidos" placeholder="0" min="0"><span class="input-unit"><img src="img/Abidos.webp" class="ico"></span></div>
+          <span class="input-sub">1 lot = 10 abidos</span>
+        </div>
+        <div class="input-group">
+          <label class="input-label lbl-gold">Frais de craft (or/lot)</label>
+          <div class="input-wrap"><input type="text" inputmode="numeric" class="num-input" id="craft-fee" value="300" min="0"><span class="input-unit"><img src="img/Gold.webp" class="ico"></span></div>
+          <span class="input-sub">Par défaut : 300 or/lot</span>
+        </div>
+      </div>
+      <button class="btn" onclick="analyzeEco()">⟡ Comparer craft vs achat</button>
+    </div>
+
+    <!-- ── RESULTS ECO ── -->
+    <div id="results-eco" style="display:none">
+      <div class="panel">
+        <div class="panel-corner tl"></div><div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div><div class="panel-corner br"></div>
+        <p class="panel-title" id="eco-panel-title">Comparaison : Craft vs Achat direct</p>
+        <div id="eco-verdict" style="text-align:center;padding:16px;margin-bottom:20px;border:1px solid var(--border);background:rgba(0,0,0,0.2)">
+          <div id="eco-verdict-icon" style="font-size:32px;margin-bottom:6px"></div>
+          <div id="eco-verdict-text" style="font-family:'Cinzel',serif;font-size:13px;letter-spacing:2px"></div>
+          <div id="eco-verdict-sub" style="font-size:13px;color:var(--text-dim);margin-top:4px"></div>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:20px">
+          <div style="border:1px solid var(--border);padding:16px;background:rgba(0,0,0,0.15)">
+            <div style="font-family:'Cinzel',serif;font-size:10px;letter-spacing:3px;color:var(--vert);text-transform:uppercase;margin-bottom:14px">Option A — Crafter</div>
+            <div class="eco-grid" style="grid-template-columns:1fr;gap:10px">
+              <div class="eco-card"><div class="eco-val c-loss" id="e-craft-cost">-</div><div class="eco-label">Coût des bois</div></div>
+              <div class="eco-card"><div class="eco-val c-loss" id="e-craft-fees">-</div><div class="eco-label">Frais de craft</div></div>
+              <div class="eco-card"><div class="eco-val c-gris" id="e-craft-abidos">-</div><div class="eco-label">Abidos produits</div></div>
+              <div class="eco-card"><div class="eco-val c-gris" id="e-craft-unit">-</div><div class="eco-label">Coût par abidos</div></div>
+            </div>
+          </div>
+          <div style="border:1px solid var(--border);padding:16px;background:rgba(0,0,0,0.15)">
+            <div style="font-family:'Cinzel',serif;font-size:10px;letter-spacing:3px;color:var(--bleu);text-transform:uppercase;margin-bottom:14px">Option B — Acheter</div>
+            <div class="eco-grid" style="grid-template-columns:1fr;gap:10px">
+              <div class="eco-card"><div class="eco-val c-loss" id="e-buy-cost">-</div><div class="eco-label">Coût total marché</div></div>
+              <div class="eco-card"><div class="eco-val c-gris" id="e-buy-abidos">-</div><div class="eco-label">Abidos obtenus</div></div>
+              <div class="eco-card"><div class="eco-val c-gris" id="e-buy-unit">-</div><div class="eco-label">Coût par abidos</div></div>
+            </div>
+          </div>
+        </div>
+        <div id="eco-savings" style="display:none;text-align:center;padding:12px;border:1px solid var(--border);background:rgba(0,0,0,0.2);margin-bottom:20px;font-size:14px"></div>
+        <div id="eco-sell-wrap" style="display:none">
+          <hr class="sep">
+          <p style="font-family:'Cinzel',serif;font-size:11px;letter-spacing:3px;color:var(--gold);text-transform:uppercase;margin-bottom:14px">Si vous revendez les abidos craftés</p>
+          <div class="eco-grid">
+            <div class="eco-card"><div class="eco-val c-gold" id="e-sell-rev">-</div><div class="eco-label">Revenus après taxe</div></div>
+            <div class="eco-card"><div class="eco-val" id="e-sell-profit">-</div><div class="eco-label">Profit net</div></div>
+            <div class="eco-card"><div class="eco-val c-gris" id="e-sell-margin">-</div><div class="eco-label">Marge / abidos</div></div>
+          </div>
+        </div>
+      </div>
+
+      <div id="obj-plan-wrap" style="display:none">
+        <div class="panel">
+          <div class="panel-corner tl"></div><div class="panel-corner tr"></div>
+          <div class="panel-corner bl"></div><div class="panel-corner br"></div>
+          <p class="panel-title">Bois à acheter</p>
+          <div id="obj-plan"></div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-corner tl"></div><div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div><div class="panel-corner br"></div>
+        <p class="panel-title">Échanges à effectuer</p>
+        <div id="e-steps"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-corner tl"></div><div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div><div class="panel-corner br"></div>
+        <p class="panel-title">Ressources restantes après craft</p>
+        <div class="rem-grid">
+          <div class="rem-item"><img src="img/Bois_gris.webp" class="ico"><div class="rem-val c-gris" id="e-rem-gris">0</div><div class="rem-label">Gris</div></div>
+          <div class="rem-item"><img src="img/Bois_vert.webp" class="ico"><div class="rem-val c-vert" id="e-rem-vert">0</div><div class="rem-label">Vert</div></div>
+          <div class="rem-item"><img src="img/Bois_bleu.webp" class="ico"><div class="rem-val c-bleu" id="e-rem-bleu">0</div><div class="rem-label">Bleu</div></div>
+          <div class="rem-item"><img src="img/Bois_orange.webp" class="ico"><div class="rem-val c-orange" id="e-rem-orange">0</div><div class="rem-label">Orange</div></div>
+          <div class="rem-item"><img src="img/Poudre.webp" class="ico"><div class="rem-val c-poudre" id="e-rem-poudre">0</div><div class="rem-label">Poudre</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

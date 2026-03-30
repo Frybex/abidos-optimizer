@@ -1,0 +1,972 @@
+[
+  {
+    "item_slug": "adrenaline",
+    "price": 205555,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "all-out-attack",
+    "price": 5999,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "ambush-master",
+    "price": 59999,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "awakening",
+    "price": 57000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "barricade",
+    "price": 3900,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "broken-bone",
+    "price": 40,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "contender",
+    "price": 525,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "crisis-evasion",
+    "price": 221,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "crushing-fist",
+    "price": 497,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "cursed-doll",
+    "price": 98999,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "disrespect",
+    "price": 155,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "divine-protection",
+    "price": 35,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "drops-of-ether",
+    "price": 8000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "emergency-rescue",
+    "price": 222,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "enhanced-shield",
+    "price": 99,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "ether-predator",
+    "price": 998,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "expert",
+    "price": 43000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "explosive-expert",
+    "price": 287,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "fortitude",
+    "price": 15,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "grudge",
+    "price": 300000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "heavy-armor",
+    "price": 2688,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "hit-master",
+    "price": 71900,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "keen-blunt-weapon",
+    "price": 279500,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "lightning-fury",
+    "price": 88,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "magick-stream",
+    "price": 8000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "mass-increase",
+    "price": 107777,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "master-brawler",
+    "price": 40000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "master-of-escape",
+    "price": 20,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "masters-tenacity",
+    "price": 424,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "max-mp-increase",
+    "price": 950,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "mp-efficiency-increase",
+    "price": 4595,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "necromancy",
+    "price": 49,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "precise-dagger",
+    "price": 2000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "preemptive-strike",
+    "price": 662,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "propulsion",
+    "price": 339,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "raid-captain",
+    "price": 284000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "shield-piercing",
+    "price": 888,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "sight-focus",
+    "price": 199,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "spirit-absorption",
+    "price": 1188,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "stabilized-status",
+    "price": 5299,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "strong-will",
+    "price": 19,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "super-charge",
+    "price": 34999,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "vital-point-hit",
+    "price": 999,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "guardian-stone-fragment",
+    "price": 2,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "destruction-stone-fragment",
+    "price": 10,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "destruction-stone",
+    "price": 300,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "guardian-stone",
+    "price": 300,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "crystallized-guardian-stone",
+    "price": 1,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "crystallized-destruction-stone",
+    "price": 3,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "protection-stone",
+    "price": 13,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "obliteration-stone",
+    "price": 15,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "refined-protection-stone",
+    "price": 3,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "refined-obliteration-stone",
+    "price": 73,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "destiny-guardian-stone",
+    "price": 6,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "destiny-destruction-stone",
+    "price": 340,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "harmony-shard-pouch-s",
+    "price": 3000,
+    "timestamp": 1770000311
+  },
+  {
+    "item_slug": "harmony-shard-pouch-m",
+    "price": 2590,
+    "timestamp": 1770144570
+  },
+  {
+    "item_slug": "harmony-shard-pouch-l",
+    "price": 2900,
+    "timestamp": 1770144570
+  },
+  {
+    "item_slug": "honor-shard-pouch-s",
+    "price": 44,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "honor-shard-pouch-m",
+    "price": 24,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "honor-shard-pouch-l",
+    "price": 777,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "destiny-shard-pouch-s",
+    "price": 455,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "destiny-shard-pouch-m",
+    "price": 899,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "destiny-shard-pouch-l",
+    "price": 1300,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "harmony-leapstone",
+    "price": 3,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "life-leapstone",
+    "price": 10000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "honor-leapstone",
+    "price": 2379,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "great-honor-leapstone",
+    "price": 6,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "marvelous-honor-leapstone",
+    "price": 37,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "radiant-honor-leapstone",
+    "price": 145,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "destiny-leapstone",
+    "price": 12,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "oreha-fusion-material",
+    "price": 2,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "superior-oreha-fusion-material",
+    "price": 9,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "prime-oreha-fusion-material",
+    "price": 62,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "abidos-fusion-material",
+    "price": 146,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "solar-grace",
+    "price": 12,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "solar-blessing",
+    "price": 60,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "solar-protection",
+    "price": 45,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "glaciers-breath",
+    "price": 214,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "lavas-breath",
+    "price": 408,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "artisans-metallurgy-level-1",
+    "price": 125,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "artisans-tailoring-level-1",
+    "price": 150,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "artisans-metallurgy-level-2",
+    "price": 71,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "artisans-tailoring-level-2",
+    "price": 54,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "metallurgy-decay-16-19",
+    "price": 16,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "tailoring-decay-16-19",
+    "price": 18,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "metallurgy-hellfire-11-14",
+    "price": 288,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "tailoring-hellfire-11-14",
+    "price": 203,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "metallurgy-hellfire-15-18",
+    "price": 270,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "tailoring-hellfire-15-18",
+    "price": 144,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "metallurgy-hellfire-19-20",
+    "price": 4100,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "tailoring-hellfire-19-20",
+    "price": 2500,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "sidereal-energy",
+    "price": 2390000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "hp-potion",
+    "price": 99,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "major-hp-potion",
+    "price": 39,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "elemental-hp-potion",
+    "price": 259,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-elemental-hp-potion",
+    "price": 406,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "corrosive-bomb",
+    "price": 99,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-corrosive-bomb",
+    "price": 332,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "dark-grenade",
+    "price": 105,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-dark-grenade",
+    "price": 474,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "destruction-bomb",
+    "price": 111,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-destruction-bomb",
+    "price": 999,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "electric-grenade",
+    "price": 499,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-electric-grenade",
+    "price": 773,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "flame-grenade",
+    "price": 496,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-flame-grenade",
+    "price": 774,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "flash-grenade",
+    "price": 499,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-flash-grenade",
+    "price": 700,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "frost-grenade",
+    "price": 1,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-frost-grenade",
+    "price": 700,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "sacred-bomb",
+    "price": 144,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-sacred-bomb",
+    "price": 449,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "sleep-bomb",
+    "price": 767,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-sleep-bomb",
+    "price": 994,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "clay-grenade",
+    "price": 300,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-clay-grenade",
+    "price": 499,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "thunder-potion",
+    "price": 125,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-thunder-potion",
+    "price": 999,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "whirlwind-grenade",
+    "price": 162,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-whirlwind-grenade",
+    "price": 494,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "camouflage-robe",
+    "price": 250,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-camouflage-robe",
+    "price": 774,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "campfire",
+    "price": 498,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-campfire",
+    "price": 774,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "flare",
+    "price": 68,
+    "timestamp": 1773205498
+  },
+  {
+    "item_slug": "splendid-flare",
+    "price": 1000,
+    "timestamp": 1773205498
+  },
+  {
+    "item_slug": "panacea",
+    "price": 299,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-panacea",
+    "price": 399,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "sacred-charm",
+    "price": 45,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-sacred-charm",
+    "price": 270,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "stealth-robe",
+    "price": 454,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-stealth-robe",
+    "price": 700,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "luteras-horn",
+    "price": 499,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "repair-shop-portal-scroll",
+    "price": 1000,
+    "timestamp": 1773205498
+  },
+  {
+    "item_slug": "taunting-scarecrow",
+    "price": 999,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-taunting-scarecrow",
+    "price": 774,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "pheromone-essence",
+    "price": 989,
+    "timestamp": 1773205498
+  },
+  {
+    "item_slug": "time-stop-potion",
+    "price": 19,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "marching-flag",
+    "price": 997,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-marching-flag",
+    "price": 999,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "protective-potion",
+    "price": 250,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-protective-potion",
+    "price": 997,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "sprinters-robe",
+    "price": 497,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "splendid-sprinters-robe",
+    "price": 997,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "stimulant",
+    "price": 293,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "atropine-potion",
+    "price": 199,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "artisans-garlic-steak",
+    "price": 750,
+    "timestamp": 1774847999
+  },
+  {
+    "item_slug": "artisans-omelet",
+    "price": 5,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "artisans-spicy-stew",
+    "price": 4,
+    "timestamp": 1774589948
+  },
+  {
+    "item_slug": "artisans-steak",
+    "price": 5,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "artisans-stew",
+    "price": 5,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "expert-butter-steak",
+    "price": 2398,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "masters-chewy-grilled",
+    "price": 928,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "masters-herb-steak",
+    "price": 1586,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "masters-moist-omelet",
+    "price": 982,
+    "timestamp": 1774847999
+  },
+  {
+    "item_slug": "specialist-beef",
+    "price": 3000,
+    "timestamp": 1774626213
+  },
+  {
+    "item_slug": "specialist-traditional-omelet",
+    "price": 2499,
+    "timestamp": 1774578268
+  },
+  {
+    "item_slug": "virtuoso-special-stew",
+    "price": 5057,
+    "timestamp": 1774562214
+  },
+  {
+    "item_slug": "virtuoso-striploin",
+    "price": 5037,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "wild-flower",
+    "price": 221,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "shy-wild-flower",
+    "price": 510,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "bright-wild-flower",
+    "price": 2999,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "abidos-wild-flower",
+    "price": 2150,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "timber",
+    "price": 170,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "tender-timber",
+    "price": 400,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "sturdy-timber",
+    "price": 1449,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "abidos-timber",
+    "price": 2000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "iron-ore",
+    "price": 168,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "heavy-iron-ore",
+    "price": 341,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "strong-iron-ore",
+    "price": 2180,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "abidos-iron-ore",
+    "price": 2150,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "treated-meat",
+    "price": 497,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "thick-raw-meat",
+    "price": 262,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "oreha-thick-meat",
+    "price": 4034,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "abidos-thick-raw-meat",
+    "price": 3097,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "exotic-leather",
+    "price": 7,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "crystallized-hunting-bauble",
+    "price": 24999,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "fish",
+    "price": 180,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "redflesh-fish",
+    "price": 355,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "oreha-solar-carp",
+    "price": 44,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "abidos-solar-carp",
+    "price": 2429,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "crystallized-fishing-bauble",
+    "price": 3499,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "ancient-relic",
+    "price": 190,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "rare-relic",
+    "price": 359,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "oreha-relic",
+    "price": 2160,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "abidos-relic",
+    "price": 2000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "crystallized-excavating-bauble",
+    "price": 3000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "exotic-relic",
+    "price": 16,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "apprentice-craft-kit",
+    "price": 7,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "adept-craft-kit",
+    "price": 1,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "expert-craft-kit",
+    "price": 495,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "master-craft-kit",
+    "price": 33000,
+    "timestamp": 1774851709
+  },
+  {
+    "item_slug": "tool-crafting-part",
+    "price": 58,
+    "timestamp": 1774851709
+  }
+]
