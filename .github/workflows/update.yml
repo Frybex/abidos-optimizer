@@ -7,31 +7,27 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    # On ajoute la variable magique demandée par GitHub pour passer en Node 24
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-      
     steps:
       - name: 📥 Récupération du code
         uses: actions/checkout@v4
 
-      - name: 🟢 Installation Node.js 24
+      - name: 🟢 Installation Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24' # On passe de 20 à 24 ici
+          node-version: '20'
 
-      - name: 📦 Installation des outils
+      - name: 📦 Installation des dépendances
         run: |
-          npm install playwright
-          npx playwright install chromium
+          npm install
+          npx playwright install chromium --with-deps
 
       - name: 🕷️ Lancement du Scraper
-        run: node app.js
+        run: node server.js
 
-      - name: 📤 Envoi des prix vers Vercel
+      - name: 📤 Envoi des prix
         run: |
           git config --global user.name 'Abidos-Bot'
           git config --global user.email 'bot@abidos.com'
           git add data.json
-          git commit -m "⚡ MAJ automatique (Node 24)" || exit 0
+          git commit -m "⚡ MAJ Prix Automatique" || exit 0
           git push
