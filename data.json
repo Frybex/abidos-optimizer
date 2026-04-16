@@ -275,6 +275,16 @@
     "updated": "16/04/2026 19:18:54"
   },
   {
+    "name": "DESTINY CRYSTALLIZED GUARDIAN STONE",
+    "price": 29,
+    "updated": "16/04/2026 19:18:54"
+  },
+  {
+    "name": "DESTINY CRYSTALLIZED DESTRUCTION STONE",
+    "price": 1786,
+    "updated": "16/04/2026 19:18:54"
+  },
+  {
     "name": "HARMONY SHARD POUCH S",
     "price": 3000,
     "updated": "02/02/2026 02:45:11"
@@ -355,6 +365,11 @@
     "updated": "16/04/2026 19:18:54"
   },
   {
+    "name": "GREAT DESTINY LEAPSTONE",
+    "price": 191,
+    "updated": "16/04/2026 19:18:54"
+  },
+  {
     "name": "OREHA FUSION MATERIAL",
     "price": 4,
     "updated": "16/04/2026 19:18:54"
@@ -372,6 +387,11 @@
   {
     "name": "ABIDOS FUSION MATERIAL",
     "price": 158,
+    "updated": "16/04/2026 19:18:54"
+  },
+  {
+    "name": "SUPERIOR ABIDOS FUSION MATERIAL",
+    "price": 245,
     "updated": "16/04/2026 19:18:54"
   },
   {
@@ -417,6 +437,26 @@
   {
     "name": "ARTISANS TAILORING LEVEL 2",
     "price": 51,
+    "updated": "16/04/2026 19:18:54"
+  },
+  {
+    "name": "ARTISANS METALLURGY LEVEL 3",
+    "price": 2000,
+    "updated": "16/04/2026 19:18:54"
+  },
+  {
+    "name": "ARTISANS TAILORING LEVEL 3",
+    "price": 1800,
+    "updated": "16/04/2026 19:18:54"
+  },
+  {
+    "name": "ARTISANS METALLURGY LEVEL 4",
+    "price": 3799,
+    "updated": "16/04/2026 19:18:54"
+  },
+  {
+    "name": "ARTISANS TAILORING LEVEL 4",
+    "price": 2330,
     "updated": "16/04/2026 19:18:54"
   },
   {
@@ -683,11 +723,6 @@
     "name": "SPLENDID TAUNTING SCARECROW",
     "price": 649,
     "updated": "16/04/2026 19:18:54"
-  },
-  {
-    "name": "PHEROMONE ESSENCE",
-    "price": 989,
-    "updated": "11/03/2026 05:04:58"
   },
   {
     "name": "TIME STOP POTION",
