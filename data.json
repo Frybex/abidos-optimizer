@@ -1,288 +1,288 @@
 [
   {
     "name": "ADRENALINE",
-    "price": 74000,
-    "updated": "25/08/2026 05:44:09"
+    "price": 86777,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ALL OUT ATTACK",
-    "price": 1455,
-    "updated": "25/08/2026 05:44:09"
+    "price": 1399,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "AMBUSH MASTER",
     "price": 40000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "AWAKENING",
-    "price": 30499,
-    "updated": "25/08/2026 05:44:09"
+    "price": 31000,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "BARRICADE",
-    "price": 896,
-    "updated": "25/08/2026 05:44:09"
+    "price": 777,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "BROKEN BONE",
-    "price": 1197,
-    "updated": "25/08/2026 05:44:09"
+    "price": 998,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CONTENDER",
-    "price": 285,
-    "updated": "25/08/2026 05:44:09"
+    "price": 400,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CRISIS EVASION",
     "price": 71,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CRUSHING FIST",
     "price": 221,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CURSED DOLL",
-    "price": 30895,
-    "updated": "25/08/2026 05:44:09"
+    "price": 30900,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DISRESPECT",
-    "price": 200,
-    "updated": "25/08/2026 05:44:09"
+    "price": 199,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DIVINE PROTECTION",
-    "price": 5,
-    "updated": "25/08/2026 05:44:09"
+    "price": 3,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DROPS OF ETHER",
-    "price": 489,
-    "updated": "25/08/2026 05:44:09"
+    "price": 500,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "EMERGENCY RESCUE",
     "price": 75,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ENHANCED SHIELD",
-    "price": 40,
-    "updated": "25/08/2026 05:44:09"
+    "price": 39,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ETHER PREDATOR",
-    "price": 17,
-    "updated": "25/08/2026 05:44:09"
+    "price": 11,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "EXPERT",
-    "price": 27995,
-    "updated": "25/08/2026 05:44:09"
+    "price": 27800,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "EXPLOSIVE EXPERT",
-    "price": 29,
-    "updated": "25/08/2026 05:44:09"
+    "price": 31,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "FORTITUDE",
     "price": 3,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "GRUDGE",
-    "price": 95500,
-    "updated": "25/08/2026 05:44:09"
+    "price": 96000,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "HEAVY ARMOR",
-    "price": 748,
-    "updated": "25/08/2026 05:44:09"
+    "price": 800,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "HIT MASTER",
-    "price": 48500,
-    "updated": "25/08/2026 05:44:09"
+    "price": 47776,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "KEEN BLUNT WEAPON",
-    "price": 105000,
-    "updated": "25/08/2026 05:44:09"
+    "price": 107495,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "LIGHTNING FURY",
-    "price": 56,
-    "updated": "25/08/2026 05:44:09"
+    "price": 55,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MAGICK STREAM",
-    "price": 555,
-    "updated": "25/08/2026 05:44:09"
+    "price": 699,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MASS INCREASE",
-    "price": 93690,
-    "updated": "25/08/2026 05:44:09"
+    "price": 88500,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MASTER BRAWLER",
-    "price": 13000,
-    "updated": "25/08/2026 05:44:09"
+    "price": 13443,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MASTER OF ESCAPE",
     "price": 20,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MASTERS TENACITY",
-    "price": 575,
-    "updated": "25/08/2026 05:44:09"
+    "price": 561,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MAX MP INCREASE",
-    "price": 188,
-    "updated": "25/08/2026 05:44:09"
+    "price": 270,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MP EFFICIENCY INCREASE",
-    "price": 890,
-    "updated": "25/08/2026 05:44:09"
+    "price": 879,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "NECROMANCY",
     "price": 30,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "PRECISE DAGGER",
-    "price": 600,
-    "updated": "25/08/2026 05:44:09"
+    "price": 692,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "PREEMPTIVE STRIKE",
-    "price": 210,
-    "updated": "25/08/2026 05:44:09"
+    "price": 399,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "PROPULSION",
     "price": 99,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "RAID CAPTAIN",
-    "price": 101999,
-    "updated": "25/08/2026 05:44:09"
+    "price": 100500,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SHIELD PIERCING",
     "price": 3,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SIGHT FOCUS",
-    "price": 20,
-    "updated": "25/08/2026 05:44:09"
+    "price": 25,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPIRIT ABSORPTION",
     "price": 1400,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "STABILIZED STATUS",
-    "price": 944,
-    "updated": "25/08/2026 05:44:09"
+    "price": 997,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "STRONG WILL",
     "price": 1,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SUPER CHARGE",
-    "price": 13895,
-    "updated": "25/08/2026 05:44:09"
+    "price": 13000,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "VITAL POINT HIT",
-    "price": 399,
-    "updated": "25/08/2026 05:44:09"
+    "price": 325,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "GUARDIAN STONE FRAGMENT",
     "price": 10,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DESTRUCTION STONE FRAGMENT",
     "price": 10,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DESTRUCTION STONE",
     "price": 4998,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "GUARDIAN STONE",
     "price": 4999,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CRYSTALLIZED GUARDIAN STONE",
     "price": 1,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CRYSTALLIZED DESTRUCTION STONE",
     "price": 80,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "PROTECTION STONE",
     "price": 24,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "OBLITERATION STONE",
     "price": 75,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "REFINED PROTECTION STONE",
-    "price": 6,
-    "updated": "25/08/2026 05:44:09"
+    "price": 8,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "REFINED OBLITERATION STONE",
-    "price": 100,
-    "updated": "25/08/2026 05:44:09"
+    "price": 111,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DESTINY GUARDIAN STONE",
-    "price": 38,
-    "updated": "25/08/2026 05:44:09"
+    "price": 40,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DESTINY DESTRUCTION STONE",
-    "price": 632,
-    "updated": "25/08/2026 05:44:09"
+    "price": 622,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DESTINY CRYSTALLIZED GUARDIAN STONE",
-    "price": 380,
-    "updated": "25/08/2026 05:44:09"
+    "price": 375,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DESTINY CRYSTALLIZED DESTRUCTION STONE",
-    "price": 3175,
-    "updated": "25/08/2026 05:44:09"
+    "price": 3193,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "HARMONY SHARD POUCH S",
@@ -301,368 +301,368 @@
   },
   {
     "name": "HONOR SHARD POUCH S",
-    "price": 252,
-    "updated": "23/08/2026 20:52:31"
+    "price": 999,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "HONOR SHARD POUCH M",
     "price": 9,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "HONOR SHARD POUCH L",
     "price": 398,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DESTINY SHARD POUCH S",
-    "price": 229,
-    "updated": "25/08/2026 05:44:09"
+    "price": 225,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DESTINY SHARD POUCH M",
-    "price": 390,
-    "updated": "25/08/2026 05:44:09"
+    "price": 433,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DESTINY SHARD POUCH L",
-    "price": 620,
-    "updated": "25/08/2026 05:44:09"
+    "price": 639,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "HARMONY LEAPSTONE",
     "price": 7,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "LIFE LEAPSTONE",
     "price": 31212,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "HONOR LEAPSTONE",
     "price": 4995,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "GREAT HONOR LEAPSTONE",
-    "price": 3,
-    "updated": "25/08/2026 04:27:48"
+    "price": 10,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MARVELOUS HONOR LEAPSTONE",
     "price": 199,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "RADIANT HONOR LEAPSTONE",
-    "price": 115,
-    "updated": "25/08/2026 05:44:09"
+    "price": 114,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DESTINY LEAPSTONE",
-    "price": 12,
-    "updated": "25/08/2026 05:44:09"
+    "price": 11,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "GREAT DESTINY LEAPSTONE",
-    "price": 81,
-    "updated": "25/08/2026 05:44:09"
+    "price": 76,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "OREHA FUSION MATERIAL",
-    "price": 117,
-    "updated": "25/08/2026 05:44:09"
+    "price": 116,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SUPERIOR OREHA FUSION MATERIAL",
-    "price": 155,
-    "updated": "25/08/2026 05:44:09"
+    "price": 150,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "PRIME OREHA FUSION MATERIAL",
     "price": 65,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ABIDOS FUSION MATERIAL",
-    "price": 110,
-    "updated": "25/08/2026 05:44:09"
+    "price": 111,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SUPERIOR ABIDOS FUSION MATERIAL",
-    "price": 152,
-    "updated": "25/08/2026 05:44:09"
+    "price": 151,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SOLAR GRACE",
-    "price": 48,
-    "updated": "25/08/2026 05:44:09"
+    "price": 47,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SOLAR BLESSING",
-    "price": 188,
-    "updated": "25/08/2026 05:44:09"
+    "price": 187,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SOLAR PROTECTION",
     "price": 129,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "GLACIERS BREATH",
-    "price": 390,
-    "updated": "25/08/2026 05:44:09"
+    "price": 469,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "LAVAS BREATH",
-    "price": 387,
-    "updated": "25/08/2026 05:44:09"
+    "price": 370,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ARTISANS METALLURGY LEVEL 1",
-    "price": 376,
-    "updated": "25/08/2026 05:44:09"
+    "price": 375,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ARTISANS TAILORING LEVEL 1",
-    "price": 434,
-    "updated": "25/08/2026 05:44:09"
+    "price": 250,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ARTISANS METALLURGY LEVEL 2",
-    "price": 88,
-    "updated": "25/08/2026 05:44:09"
+    "price": 97,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ARTISANS TAILORING LEVEL 2",
-    "price": 98,
-    "updated": "25/08/2026 05:44:09"
+    "price": 97,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ARTISANS METALLURGY LEVEL 3",
-    "price": 826,
-    "updated": "25/08/2026 05:44:09"
+    "price": 800,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ARTISANS TAILORING LEVEL 3",
-    "price": 967,
-    "updated": "25/08/2026 05:44:09"
+    "price": 999,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ARTISANS METALLURGY LEVEL 4",
-    "price": 849,
-    "updated": "25/08/2026 05:44:09"
+    "price": 878,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ARTISANS TAILORING LEVEL 4",
-    "price": 880,
-    "updated": "25/08/2026 05:44:09"
+    "price": 1032,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "METALLURGY DECAY 16 19",
     "price": 24,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "TAILORING DECAY 16 19",
-    "price": 15,
-    "updated": "25/08/2026 05:44:09"
+    "price": 14,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "METALLURGY HELLFIRE 11 14",
     "price": 878,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "TAILORING HELLFIRE 11 14",
     "price": 828,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "METALLURGY HELLFIRE 15 18",
     "price": 200,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "TAILORING HELLFIRE 15 18",
-    "price": 50,
-    "updated": "25/08/2026 05:44:09"
+    "price": 67,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "METALLURGY HELLFIRE 19 20",
-    "price": 1785,
-    "updated": "25/08/2026 05:44:09"
+    "price": 1897,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "TAILORING HELLFIRE 19 20",
-    "price": 1244,
-    "updated": "25/08/2026 05:44:09"
+    "price": 1155,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SIDEREAL ENERGY",
     "price": 8444444,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "HP POTION",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MAJOR HP POTION",
-    "price": 109,
-    "updated": "25/08/2026 05:44:09"
+    "price": 108,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ELEMENTAL HP POTION",
-    "price": 221,
-    "updated": "25/08/2026 05:44:09"
+    "price": 218,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID ELEMENTAL HP POTION",
-    "price": 545,
-    "updated": "25/08/2026 05:44:09"
+    "price": 645,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CORROSIVE BOMB",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID CORROSIVE BOMB",
     "price": 799,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DARK GRENADE",
-    "price": 93,
-    "updated": "25/08/2026 05:44:09"
+    "price": 92,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID DARK GRENADE",
-    "price": 228,
-    "updated": "25/08/2026 05:44:09"
+    "price": 224,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "DESTRUCTION BOMB",
     "price": 109,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID DESTRUCTION BOMB",
     "price": 800,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ELECTRIC GRENADE",
     "price": 65,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID ELECTRIC GRENADE",
     "price": 990,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "FLAME GRENADE",
     "price": 499,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID FLAME GRENADE",
     "price": 990,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "FLASH GRENADE",
     "price": 150,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID FLASH GRENADE",
     "price": 990,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "FROST GRENADE",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID FROST GRENADE",
     "price": 990,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SACRED BOMB",
-    "price": 128,
-    "updated": "25/08/2026 05:44:09"
+    "price": 127,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID SACRED BOMB",
-    "price": 326,
-    "updated": "25/08/2026 05:44:09"
+    "price": 324,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SLEEP BOMB",
     "price": 800,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID SLEEP BOMB",
     "price": 990,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CLAY GRENADE",
     "price": 55,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID CLAY GRENADE",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "THUNDER POTION",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID THUNDER POTION",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "WHIRLWIND GRENADE",
-    "price": 114,
-    "updated": "25/08/2026 05:44:09"
+    "price": 113,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID WHIRLWIND GRENADE",
-    "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "price": 445,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CAMOUFLAGE ROBE",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID CAMOUFLAGE ROBE",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CAMPFIRE",
     "price": 750,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID CAMPFIRE",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "FLARE",
@@ -677,37 +677,37 @@
   {
     "name": "PANACEA",
     "price": 150,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID PANACEA",
     "price": 499,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SACRED CHARM",
     "price": 112,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID SACRED CHARM",
-    "price": 353,
-    "updated": "25/08/2026 05:44:09"
+    "price": 349,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "STEALTH ROBE",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID STEALTH ROBE",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "LUTERAS HORN",
     "price": 500,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "REPAIR SHOP PORTAL SCROLL",
@@ -717,42 +717,42 @@
   {
     "name": "TAUNTING SCARECROW",
     "price": 500,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID TAUNTING SCARECROW",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "TIME STOP POTION",
     "price": 148,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MARCHING FLAG",
     "price": 999,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID MARCHING FLAG",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "PROTECTIVE POTION",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID PROTECTIVE POTION",
     "price": 900,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPRINTERS ROBE",
     "price": 1000,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPLENDID SPRINTERS ROBE",
@@ -762,22 +762,22 @@
   {
     "name": "STIMULANT",
     "price": 123,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ATROPINE POTION",
     "price": 155,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ARTISANS GARLIC STEAK",
     "price": 2500,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ARTISANS OMELET",
     "price": 1500,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ARTISANS SPICY STEW",
@@ -797,27 +797,27 @@
   {
     "name": "EXPERT BUTTER STEAK",
     "price": 2975,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MASTERS CHEWY GRILLED",
-    "price": 855,
-    "updated": "25/08/2026 05:44:09"
+    "price": 854,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MASTERS HERB STEAK",
-    "price": 1816,
-    "updated": "25/08/2026 05:44:09"
+    "price": 1798,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MASTERS MOIST OMELET",
-    "price": 1398,
-    "updated": "25/08/2026 05:44:09"
+    "price": 1397,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPECIALIST BEEF",
     "price": 2899,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SPECIALIST TRADITIONAL OMELET",
@@ -831,177 +831,177 @@
   },
   {
     "name": "VIRTUOSO STRIPLOIN",
-    "price": 4693,
-    "updated": "25/08/2026 05:44:09"
+    "price": 4600,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "WILD FLOWER",
-    "price": 248,
-    "updated": "25/08/2026 05:44:09"
+    "price": 260,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "SHY WILD FLOWER",
-    "price": 699,
-    "updated": "25/08/2026 05:44:09"
+    "price": 700,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "BRIGHT WILD FLOWER",
-    "price": 2599,
-    "updated": "25/08/2026 05:44:09"
+    "price": 2627,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ABIDOS WILD FLOWER",
-    "price": 1285,
-    "updated": "25/08/2026 05:44:09"
+    "price": 1280,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "TIMBER",
-    "price": 104,
-    "updated": "25/08/2026 05:44:09"
+    "price": 103,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "TENDER TIMBER",
-    "price": 258,
-    "updated": "25/08/2026 05:44:09"
+    "price": 255,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "STURDY TIMBER",
-    "price": 1020,
-    "updated": "25/08/2026 05:44:09"
+    "price": 999,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ABIDOS TIMBER",
-    "price": 1278,
-    "updated": "25/08/2026 05:44:09"
+    "price": 1255,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "IRON ORE",
     "price": 139,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "HEAVY IRON ORE",
     "price": 275,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "STRONG IRON ORE",
     "price": 1494,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ABIDOS IRON ORE",
     "price": 1365,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "TREATED MEAT",
-    "price": 412,
-    "updated": "25/08/2026 05:44:09"
+    "price": 400,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "THICK RAW MEAT",
-    "price": 321,
-    "updated": "25/08/2026 05:44:09"
+    "price": 300,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "OREHA THICK MEAT",
-    "price": 2554,
-    "updated": "25/08/2026 05:44:09"
+    "price": 2553,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ABIDOS THICK RAW MEAT",
-    "price": 2750,
-    "updated": "25/08/2026 05:44:09"
+    "price": 2800,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "EXOTIC LEATHER",
-    "price": 17,
-    "updated": "25/08/2026 05:44:09"
+    "price": 16,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CRYSTALLIZED HUNTING BAUBLE",
-    "price": 7000,
-    "updated": "25/08/2026 05:44:09"
+    "price": 6999,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "FISH",
-    "price": 112,
-    "updated": "25/08/2026 05:44:09"
+    "price": 109,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "REDFLESH FISH",
-    "price": 209,
-    "updated": "25/08/2026 05:44:09"
+    "price": 208,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "OREHA SOLAR CARP",
     "price": 46,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ABIDOS SOLAR CARP",
-    "price": 1289,
-    "updated": "25/08/2026 05:44:09"
+    "price": 1279,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CRYSTALLIZED FISHING BAUBLE",
-    "price": 6000,
-    "updated": "25/08/2026 05:44:09"
+    "price": 5999,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ANCIENT RELIC",
-    "price": 249,
-    "updated": "25/08/2026 05:44:09"
+    "price": 235,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "RARE RELIC",
-    "price": 317,
-    "updated": "25/08/2026 05:44:09"
+    "price": 307,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "OREHA RELIC",
-    "price": 1888,
-    "updated": "25/08/2026 05:44:09"
+    "price": 1887,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ABIDOS RELIC",
-    "price": 1198,
-    "updated": "25/08/2026 05:44:09"
+    "price": 1172,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "CRYSTALLIZED EXCAVATING BAUBLE",
-    "price": 9986,
-    "updated": "25/08/2026 05:44:09"
+    "price": 9888,
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "EXOTIC RELIC",
     "price": 14,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "APPRENTICE CRAFT KIT",
     "price": 774,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "ADEPT CRAFT KIT",
     "price": 1,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "EXPERT CRAFT KIT",
     "price": 786,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "MASTER CRAFT KIT",
     "price": 29998,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   },
   {
     "name": "TOOL CRAFTING PART",
     "price": 48,
-    "updated": "25/08/2026 05:44:09"
+    "updated": "25/08/2026 07:00:13"
   }
 ]
